@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This is a **Java Servlet-based Employee Management System** that performs **CRUD (Create, Read, Update, Delete)** operations with a MySQL database using **JDBC**.  
-The project demonstrates how to build a web-based application using **Servlets, JSP, and JDBC** without any advanced frameworks.
+The project demonstrates how to build a web-based application using **Servlets Classes and JDBC** without any advanced frameworks.
 
 ## 🚀 Features
 - ➕ **Insert** – Add new employee details  
